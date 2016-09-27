@@ -24,7 +24,7 @@ analysisis of quantitative information, give policy recomendations.
 __**August 2012 - August 2016: Part time teacher**__  
 _(Pontificia Universidad Católica de Chile and Universidad Diego Portales, Santiago Chile)_  
 
-Teacher of the following lectures in bachellor level:  
+Teacher of the following lectures in Bachellor level:  
 * Game Theory _(2015-2016)_
 * Microeconomics _(2012-2014)_
 * Introduction to Economics _(2015)_
