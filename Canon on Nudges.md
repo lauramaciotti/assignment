@@ -118,7 +118,7 @@ Nudging is certainly not a new technique, and it has proved it can be very effec
 
 Although many moral and ethical concerns can arise from the use of nudges, such as whether or not the policy maker is better positions to prescribe a course of action, or whether or not they limit freedom of choice, we cannot overlook the fact that nudges are present in our lives. Even if a decision architect decides not to use an explicit nudge, there will still be an implicit nudge within the decision framework.  Whenever a message is delivered, or a product or program is offered, people will have to decide how to react based on the way the information they perceive is presented. 
 
-It is our responsibility acknowledge the inherent nature of nudges in choice architecture, and to study the mechanisms through which nudges work, such that choice architects can wilfully select those nudges which increase welfare.
+It is our responsibility to acknowledge the inherent nature of nudges in choice architecture, and to study the mechanisms through which nudges work, such that choice architects can wilfully select those nudges which increase welfare.
 
 ## 8. References
 *	Agarwal, S., Driscoll, J. C., Gabaix, X., & Laibson, D. (2013). _Learning in the credit card market_. Retrieved from Harvard University: [http://scholar.harvard.edu/files/laibson/files/learning_credit_042413.pdf] (http://scholar.harvard.edu/files/laibson/files/learning_credit_042413.pdf)
