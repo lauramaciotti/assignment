@@ -92,7 +92,9 @@ A third but not final concern for using nudges, is that they can be manipulative
 
 ## 7. Conclusions
 
-Nudging is certainly not a new technique, and it has proved it can be very effective at shaping people’s behaviours. However, there’s a still much research to be done to understand the mechanisms behind nudges, and to discover what non-economic incentives are important in order to model human choices.  
+Nudging is certainly not a new technique, and it has proved it can be very effective at shaping people’s behaviours. At the end of the day, the way options are framed let us see that there's more than just the monetary incentives, and our traditional "modelling" of how people make choices should be carefully thought and redesigned to include other issues as well, such as social norms, self-evaluation of risk and time, among other. However, there’s a still much research to be done to understand the mechanisms behind nudges, and to discover what non-economic incentives are important in order to model human choices.  
+
+After this peek into nudges, we conclude that a well-designed nudge can be far more effective than a monetary incentive, and also far more efficient, by achieving the same effect or more. A key assumption for this is that choice architecture must be carefully designed, tested and implemented, so they really accomplished what they intended in the first place.  
 
 Although many moral and ethical concerns can arise from the use of nudges, such as whether or not the policy maker is better positions to prescribe a course of action, or whether or not they limit freedom of choice, we cannot overlook the fact that nudges are present in our lives. Even if a decision architect decides not to use an explicit nudge, there will still be an implicit nudge within the decision framework.  Whenever a message is delivered, or a product or program is offered, people will have to decide how to react based on the way the information they perceive is presented.  
 
